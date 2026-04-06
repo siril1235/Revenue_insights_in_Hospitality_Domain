@@ -61,7 +61,7 @@ This project is a Power BI dashboard designed to analyze revenue performance in 
 
 ### 📌 Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -96,8 +96,7 @@ Revenue-Insights-Hospitality/
 │
 ├── Revenue-Insights.pbix
 ├── dataset.xlsx
-├── screenshots/
-│   └── dashboard.png
+├── dashboard.png 
 └── README.md
 ```
 
