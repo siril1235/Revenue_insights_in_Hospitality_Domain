@@ -61,7 +61,7 @@ This project is a Power BI dashboard designed to analyze revenue performance in 
 
 ### 📌 Main Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
